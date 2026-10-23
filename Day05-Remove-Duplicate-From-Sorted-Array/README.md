@@ -1,8 +1,8 @@
 # Day 05 - Remove Duplicate From Sorted Array
 
-**Problem:** Given an array with duplicates, remove duplicates and print unique elements.
+#Problem: Given an array with duplicates, remove duplicates and print unique elements.
 
-**Approach:**
+#Approach:
 1. First sort the array using `Arrays.sort()` 
 2. Use Two Pointers:
    - i = slow pointer 
