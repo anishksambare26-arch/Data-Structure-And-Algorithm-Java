@@ -1,5 +1,4 @@
-## Day 16- 
-Reverse String
+## Day 16-Reverse String
 
 # Problem
 Write a Java program to reverse a given string using the Two Pointer Approach.
