@@ -39,7 +39,7 @@ public class search {
     }
 
     public static void main(String[] args) {
-        int[] nums = {1,2,3,4,5,6,7,8,9,10};
+        int[] nums = {4, 5, 6, 7, 0, 1, 2};
         System.out.println("Target 1 -> " + search(nums, 1));
         System.out.println("Target 3 -> " + search(nums, 3));
         System.out.println("Target 6 -> " + search(nums, 6));
