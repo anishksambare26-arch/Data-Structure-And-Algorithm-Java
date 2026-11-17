@@ -28,7 +28,7 @@ Input:
 int[] nums = {4, 5, 6, 7, 0, 1, 2};
 ```
 Output:
-```text
+```
 Target 0 -> 4
 Target 3 -> -1
 Target 6 -> 2
