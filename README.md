@@ -26,7 +26,7 @@ Dynamic Programming
 
 📈 Progress
 
-Problems solved: 31/100
+Problems solved: 32/100
 
 Language: Java
 
